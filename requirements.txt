@@ -1,0 +1,9 @@
+streamlit
+pandas
+matplotlib
+numpy
+scipy
+os
+OpenAI
+Image
+pytesseract
